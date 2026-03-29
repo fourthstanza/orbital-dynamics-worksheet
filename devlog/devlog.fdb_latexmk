@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1774632623.56579 "c:/Users/Fourt/Desktop/Projects/orbital-dynamics-worksheet/devlog/devlog.tex" "devlog.pdf" "devlog" 1774632624.00694 0
+["pdflatex"] 1774731554.84828 "c:/Users/Fourt/Desktop/Projects/orbital-dynamics-worksheet/devlog/devlog.tex" "devlog.pdf" "devlog" 1774731555.28987 0
   "C:/Users/Fourt/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1769215274 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Fourt/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1769463425 13333487 2a2f672188d5cedd5715f169ba6e469f ""
   "C:/Users/Fourt/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -47,10 +47,10 @@
   "C:/Users/Fourt/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/Fourt/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1751104012 9684 a33a14b82ce60d6e77cb9be689d79ee6 ""
   "C:/Users/Fourt/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/Fourt/Desktop/Projects/orbital-dynamics-worksheet/devlog/devlog.tex" 1774632623 624 49848fb9b69b38cdc9381fb53d0cebc2 ""
-  "devlog.aux" 1774632623 381 ede49b217fd49c45144e642fe684e602 "pdflatex"
-  "devlog.out" 1774632623 214 237111018b4c6ab1c6106fda0e57be74 "pdflatex"
-  "devlog.tex" 1774632623 624 49848fb9b69b38cdc9381fb53d0cebc2 ""
+  "c:/Users/Fourt/Desktop/Projects/orbital-dynamics-worksheet/devlog/devlog.tex" 1774731554 777 103601b963bd14a9111b15c1f8d9fda4 ""
+  "devlog.aux" 1774731555 381 ede49b217fd49c45144e642fe684e602 "pdflatex"
+  "devlog.out" 1774731555 214 237111018b4c6ab1c6106fda0e57be74 "pdflatex"
+  "devlog.tex" 1774731554 777 103601b963bd14a9111b15c1f8d9fda4 ""
   (generated)
   "devlog.aux"
   "devlog.log"
